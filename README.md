@@ -1,2 +1,2 @@
-# titanic
+# titanic :boat:
 kaggle titanic
